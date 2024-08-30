@@ -16,27 +16,19 @@
 
 :snake: Python: :three:
 
-
-Book: Grokking Algorithms - An Illustrated Guide for Programmers and Other Curious People
-Author: Aditya Bhargava
-Publisher: Manning Publications Co.
-Example adapted by: Charles Fernandes de Souza
-Date: August 29, 2024
-
-
-## Course Session
+## Chapters
 
 - [1 Introduction to algorithms]()
-- Selection sort
-- Recursion
-- Quicksort
-- Hash tables
-- Breadth-first search
-- Dijkstra’s algorithm
-- Greedy algorithms
-- Dynamic programming
-- K-Nearest neighbors
-- Where to go next
+- [2 Selection sort]()
+- [3 Recursion]()
+- [4 Quicksort]()
+- [5 Hash tables]()
+- [6 Breadth-first search]()
+- [7 Dijkstra’s algorithm]()
+- [8 Greedy algorithms]()
+- [9 Dynamic programming]()
+- [10 K-Nearest neighbors]()
+- [11 Where to go next]()
 
 
 
