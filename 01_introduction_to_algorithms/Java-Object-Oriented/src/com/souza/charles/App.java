@@ -7,7 +7,9 @@ package com.souza.charles;
  Date: September 12, 2024
  */
 public class App {
+ 
     public static void main(String[] args) {
+     
         int[] myList = {1, 3, 5, 7, 9};
 
         BinarySearch binarySearch = new BinarySearch(myList, 3);
