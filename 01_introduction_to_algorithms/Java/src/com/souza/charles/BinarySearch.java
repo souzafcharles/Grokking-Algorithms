@@ -8,7 +8,6 @@ Date: August 29, 2024
  */
 
 public class BinarySearch {
-
     /**
      * Conducts a binary search on a sorted integer array to locate the index of a specified item.
      *
@@ -16,6 +15,15 @@ public class BinarySearch {
      * @param item The item to be searched for.
      * @return The index of the item within the array, or null if the item is not found.
      */
+
+    public static void main(String[] args) {
+
+        int[] myList = {1, 3, 5, 7, 9}; // Create the list
+
+        System.out.println(binarySearch(myList, 3)); // => 1
+        System.out.println(binarySearch(myList, -1)); // => null
+    }
+
     public static Integer binarySearch(int[] list, int item) {
         int lower = 0;
         int upper = list.length - 1;
@@ -31,15 +39,9 @@ public class BinarySearch {
             } else { // If the guess is too low, adjust the lower bound
                 lower = middle + 1;
             }
+
         }
 
         return null; // Return null if the item is not found
-    }
-
-    public static void main(String[] args) {
-        int[] myList = {1, 3, 5, 7, 9};
-
-        System.out.println(binarySearch(myList, 3)); // => 1
-        System.out.println(binarySearch(myList, -1)); // => null
     }
 }
