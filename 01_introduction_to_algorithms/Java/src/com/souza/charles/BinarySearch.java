@@ -14,19 +14,9 @@ public class BinarySearch {
      * @param item The item to be searched for.
      * @return The index of the item within the array, or null if the item is not found.
      */
-
-    public static void main(String[] args) {
-
-        int[] myList = {1, 3, 5, 7, 9}; // Create the list
-
-        System.out.println(binarySearch(myList, 3)); // => 1
-        System.out.println(binarySearch(myList, -1)); // => null
-    }
-
     public static Integer binarySearch(int[] list, int item) {
         int lower = 0;
         int upper = list.length - 1;
-
         while (lower <= upper) {
             int middle = (lower + upper) / 2; // Calculate the middle index
             int guess = list[middle]; // Guess the middle element
@@ -41,5 +31,12 @@ public class BinarySearch {
 
         }
         return null; // Return null if the item is not found
+    }
+    public static void main(String[] args) {
+
+        int[] myList = {1, 3, 5, 7, 9, 11}; // Create the list
+
+        System.out.println(binarySearch(myList, 3)); // => 1
+        System.out.println(binarySearch(myList, -1)); // => null
     }
 }
