@@ -6,7 +6,6 @@ Publisher: Manning Publications Co.
 Example adapted by: Charles Fernandes de Souza
 Date: August 29, 2024
  */
-
 public class BinarySearch {
     /**
      * Conducts a binary search on a sorted integer array to locate the index of a specified item.
@@ -41,7 +40,6 @@ public class BinarySearch {
             }
 
         }
-
         return null; // Return null if the item is not found
     }
 }
