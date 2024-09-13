@@ -19,6 +19,7 @@ public class BinarySearch {
     }
 
     public Integer performBinarySearch() {
+     
         int lower = 0;
         int upper = myList.length - 1;
 
