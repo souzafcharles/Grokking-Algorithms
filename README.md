@@ -14,7 +14,7 @@
 
 :coffee: Java version: :two::one:
 
-:snake: Python: :three:
+:snake: Python version: :three:
 
 ## Chapters
 
