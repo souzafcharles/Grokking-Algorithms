@@ -10,7 +10,7 @@
 
 :triangular_flag_on_post: Author: Aditya Bhargava
 
-:waxing_crescent_moon: IDE used: Eclipse and Colab
+:white_square_button: IDE used: IntelliJ IDEA and Colab
 
 :coffee: Java version: :two::one:
 
