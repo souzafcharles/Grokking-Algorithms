@@ -9,11 +9,8 @@ package com.souza.charles;
 public class App {
  
     public static void main(String[] args) {
-     
         int[] myList = {1, 3, 5, 7, 9};
-
         BinarySearch binarySearch = new BinarySearch(myList, 3);
-
         Integer result = binarySearch.performBinarySearch();
         if (result != null) {
             System.out.println("Found at index: " + result);
