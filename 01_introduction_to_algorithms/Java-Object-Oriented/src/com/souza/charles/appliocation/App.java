@@ -1,4 +1,4 @@
-package com.souza.charles;
+package com.souza.charles.appliocation;
 /**
  Book: Grokking Algorithms - An Illustrated Guide for Programmers and Other Curious People
  Author: Aditya Bhargava
@@ -6,6 +6,8 @@ package com.souza.charles;
  Example adapted by: Charles Fernandes de Souza
  Date: September 12, 2024
  */
+import com.souza.charles.utils.BinarySearch;
+
 public class App {
  
     public static void main(String[] args) {

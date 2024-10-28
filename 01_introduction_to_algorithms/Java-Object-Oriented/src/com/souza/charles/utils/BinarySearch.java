@@ -1,4 +1,4 @@
-package com.souza.charles;
+package com.souza.charles.utils;
 /**
  Book: Grokking Algorithms - An Illustrated Guide for Programmers and Other Curious People
  Author: Aditya Bhargava

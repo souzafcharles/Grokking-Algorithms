@@ -39,11 +39,11 @@
   </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.souza.charles.App" />
+      <option name="MAIN_CLASS_NAME" value="com.souza.charles.appliocation.App" />
       <module name="Java-Object-Oriented" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.souza.charles.*" />
+          <option name="PATTERN" value="com.souza.charles.appliocation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
