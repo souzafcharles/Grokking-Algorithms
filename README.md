@@ -18,8 +18,8 @@
 
 ## Chapters
 
-- [1 Introduction to algorithms]()
-- [2 Selection sort]()
+- [1 Introduction to algorithms](https://github.com/souzafcharles/Grokking-Algorithms/tree/master/01_introduction_to_algorithms)
+- [2 Selection sort](https://github.com/souzafcharles/Grokking-Algorithms/tree/master/02_selection_sort)
 - [3 Recursion]()
 - [4 Quicksort]()
 - [5 Hash tables]()
