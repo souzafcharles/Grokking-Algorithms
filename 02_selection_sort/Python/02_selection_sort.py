@@ -5,8 +5,10 @@ Publisher: Manning Publications Co.
 Example adapted by: Charles Fernandes de Souza
 Date: October 28, 2024
 ```
-"""
-
+```
+Sort the elements of an array from smallest to largest 
+and then develop a function to find the smallest element of the array.
+```
 def findSmallest(arr):
     # Initialises the first element as the smallest
     smallest = arr[0]
