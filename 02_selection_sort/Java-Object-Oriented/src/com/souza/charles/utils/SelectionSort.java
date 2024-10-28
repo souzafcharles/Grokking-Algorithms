@@ -1,5 +1,11 @@
 package com.souza.charles.utils;
-
+/**
+ Book: Grokking Algorithms - An Illustrated Guide for Programmers and Other Curious People
+ Author: Aditya Bhargava
+ Publisher: Manning Publications Co.
+ Example adapted by: Charles Fernandes de Souza
+ Date: October 28, 2024
+ */
 public class SelectionSort {
     /**
      * Method to find the index of the smallest element in the array
